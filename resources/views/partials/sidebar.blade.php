@@ -1,14 +1,7 @@
 <nav class="sidebar sidebar-offcanvas" id="sidebar">
         <div class="user-profile">
-          <div class="user-image">
-            <img src="images/faces/face28.png">
-          </div>
-          <div class="user-name">
-              Edward Spencer
-          </div>
-          <div class="user-designation">
-              Developer
-          </div>
+          
+          
         </div>
         <ul class="nav">
           <li class="nav-item">
@@ -20,7 +13,7 @@
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#ui-basic" aria-expanded="false" aria-controls="ui-basic">
               <i class="icon-disc menu-icon"></i>
-              <span class="menu-title">UI Elements</span>
+              <span class="menu-title">User Management</span>
               <i class="menu-arrow"></i>
             </a>
             <div class="collapse" id="ui-basic">
@@ -33,19 +26,19 @@
           <li class="nav-item">
             <a class="nav-link" href="pages/forms/basic_elements.html">
               <i class="icon-file menu-icon"></i>
-              <span class="menu-title">Form elements</span>
+              <span class="menu-title">Catalog Management</span>
             </a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="pages/charts/chartjs.html">
               <i class="icon-pie-graph menu-icon"></i>
-              <span class="menu-title">Charts</span>
+              <span class="menu-title">Member Management</span>
             </a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="pages/tables/basic-table.html">
               <i class="icon-command menu-icon"></i>
-              <span class="menu-title">Tables</span>
+              <span class="menu-title">Circulation Management</span>
             </a>
           </li>
           <li class="nav-item">
@@ -57,7 +50,7 @@
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#auth" aria-expanded="false" aria-controls="auth">
               <i class="icon-head menu-icon"></i>
-              <span class="menu-title">User Pages</span>
+              <span class="menu-title">Reports and Analytics</span>
               <i class="menu-arrow"></i>
             </a>
             <div class="collapse" id="auth">
@@ -73,7 +66,7 @@
           <li class="nav-item">
             <a class="nav-link" href="docs/documentation.html">
               <i class="icon-book menu-icon"></i>
-              <span class="menu-title">Documentation</span>
+              <span class="menu-title">Inventory Management</span>
             </a>
           </li>
         </ul>
